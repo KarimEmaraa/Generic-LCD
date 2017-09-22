@@ -16,7 +16,7 @@ Uses an exisiting driver to generate a menu with a max of 255 items, each can ha
 4. Call *display_menu* function.
 ### Detailed Decription
 #### Item struct 
-* Title string to be shown at the lcd. **Should** be no longer than 16 or 20 depnding on your display. (No checking is included).
+* Title string to be shown at the lcd. **Should** be no longer than 15 or 19 depnding on your display. (No checking is included).
 * Call-back function is called when *SELECT* button is pressed.
 * A pointer to other menu to be displayed when *SELECT* button is pressed.
 #### Menu struct
