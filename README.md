@@ -24,7 +24,9 @@ Uses an exisiting driver to generate a menu with a max of 255 items, each can ha
 * Number of items in that menu.
 * A pointer to previous menu (if exisits) to be displayed when *BACK* button is pressed.
 ### Screen Shots
-More to be uploaded.
+![alt text][logo]
+
+[logo]: https://github.com/KarimEmaraa/Generic-LCD/blob/master/Untitled-1.png
 
 ## Generic LCD library
 Provids primitive functions to interact with LCD modules like sending commands, chars and string.
