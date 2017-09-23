@@ -1,5 +1,5 @@
 # Generic-LCD
-Generic menu UI library and driver for HD44780 based LCD modules written in c99 using Atmel Studio 7 and avg-gcc compiler tested with proteus 8.6 and on Arduino UNO REV3.
+Generic menu UI library and driver for HD44780 based LCD modules written in c99 using Atmel Studio 7 and avr-gcc compiler tested with proteus 8.6 and on Arduino UNO REV3.
 ## Generic Menu UI Library
 Uses an exisiting driver to generate a menu with a max of 255 items, each can have a separate menu to navigate to and a call-back function.
 ### Features
